@@ -16,7 +16,7 @@ of any valid HTML tag (e.g., `'p'`, `'div'`, `'span'`, etc.).
 
 Open this lesson's `index.html` file in your browser or use `httpserver` to
 serve it temporarily. Once open,
-[open up the browser's console][openconsole]. In the console, enter:
+[open up the browser's console][openconsole]. In the console, enter:junk
 
 ```javascript
 var element = document.createElement('div');

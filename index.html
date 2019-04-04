@@ -1,10 +1,20 @@
-<!DOCTYPE html>
+<!DOCTYPE html>document.body.appendChild(element);
+ul.style.textAlign = 'left';
+ul.remove();
+var ul = document.createElement('ul');
+ 
+for (let i = 0; i < 3; i++) {
+  let li = document.createElement('li');
+  li.innerHTML = (i + 1).toString();
+  ul.appendChild(li);
+}
+ 
+element.appendChild(ul);
 <html>
-
-  <head>
+  
+ <head>
     <title>Creating and Inserting DOM Elements</title>
   </head>
-
   <body>
     <main id="main"></main>
     <script src="js/index.js"></script>

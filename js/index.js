@@ -18,6 +18,6 @@ for(let i = 0; i < 3; i++){
 div.appendChild(ul);
 ul.style.textAlign = 'left';
 
-// ul.removeChild(ul.querySelector('li:nth-child(2)'));
-//
-// ul.remove();
+ul.removeChild(ul.querySelector('li:nth-child(2)'));
+
+ul.remove();

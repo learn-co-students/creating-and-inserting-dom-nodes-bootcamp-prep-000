@@ -62,7 +62,7 @@ We can continue to update `element`, since we have a reference to it:
 ```javascript
 element.style.textAlign = 'center';
 ```
-
+element.style.background = "green" 
 And now our element's text is centered.
 
 We can append elements to that element:

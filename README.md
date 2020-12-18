@@ -68,8 +68,8 @@ And now our element's text is centered.
 We can append elements to that element:
 
 ```javascript
-var ul = document.createElement('ul');
 
+var ul = document.createElement('ul');
 for (let i = 0; i < 3; i++) {
   let li = document.createElement('li');
   li.innerHTML = (i + 1).toString();

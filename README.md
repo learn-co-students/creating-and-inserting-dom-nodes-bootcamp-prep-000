@@ -15,7 +15,8 @@ you go to follow along.
 ## `document.createElement()`
 
 Creating an element in JavaScript couldn't be easier. Simply call
-`document.createElement(tagName)`, where `tagName` is the string representation
+`document.createElement(tagName)`, wher
+e `tagName` is the string representation
 of any valid HTML tag (e.g., `'p'`, `'div'`, `'span'`, etc.).
 
 Open this lesson's `index.html` file in your browser or use `httpserver` to

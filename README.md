@@ -1,4 +1,4 @@
-## Creating and Inserting DOM Nodes
+Creating## Creating and Inserting DOM Nodes
 
 ## Objectives
 
